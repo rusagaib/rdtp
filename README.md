@@ -15,8 +15,10 @@ python -m venv venv
 pip install -r requirements.txt
 ```
 
-### 3. manualy run rdtp_service or use .bat file..
+### 3. rename .env.example to .env and setting confing on that file..
 
-### 4. for autostart run app, copy .bat file to folder auto start windows (use `_auto.bat` or `rdtp_service.bat` whatever..)
+### 4. manualy run rdtp_service.py or use .bat file..
+
+### 5. for autostart run app, copy .bat file to folder auto start windows (use `_auto.bat` or `rdtp_service.bat` whatever..)
 
 
